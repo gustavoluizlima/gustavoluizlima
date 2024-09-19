@@ -6,7 +6,7 @@ Focado em me tornar um desenvolvedor back-end utilizando Java como minha linguag
 - <a href="https://www.linkedin.com/in/gustavoluizlima/" target="_blank">LinkedIn</a>
 
 <p align="center"> 
-  <h2> Minhas Habilidades>  
+  <h2> Minhas Habilidades </h2>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">

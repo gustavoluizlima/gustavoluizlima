@@ -5,7 +5,9 @@ Focado em me tornar um desenvolvedor back-end utilizando Java como minha linguag
 - 📫 Entre em contato: devgustavoluizlima@gmail.com 
 - <a href="https://www.linkedin.com/in/gustavoluizlima/" target="_blank">LinkedIn</a>
 
-## Minhas habilidades
+<p align="center> 
+  <h2> Minhas Habilidades>  
+</p>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,spring,js,html,css,postgres,git&theme=light" />

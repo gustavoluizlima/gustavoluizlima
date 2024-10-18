@@ -8,6 +8,6 @@ Focado em me tornar um desenvolvedor back-end utilizando Java como minha linguag
 <p align="center"> Minhas Habilidades </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,js,html,css,postgres,git&theme=light" />
+    <img src="https://skillicons.dev/icons?i=java,spring,js,python,html,css,postgres,git&theme=light" />
   </a>
 </p>

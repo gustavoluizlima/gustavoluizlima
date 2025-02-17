@@ -1,5 +1,5 @@
 ### Olá! Meu nome é Gustavo Luiz 👋
-Focado em me tornar um desenvolvedor back-end utilizando Java como minha linguagem principal e Spring Boot como framework. Gosto de criação de jogos, musica e arte e utilizo essa criatividade na hora de desenvolver. Faço alguns projetos pessoais para aprender mais no dia a dia.
+Focado em me tornar um desenvolvedor back-end aprendendo PHP como linguagem e Laravel como framework. Gosto de criação de jogos, musica e artes e utilizo essa criatividade na hora de desenvolver. Faço alguns projetos pessoais para aprender mais no dia a dia.
 
 - 🔭 Estudante de Análise e Desenvolvimento de Sistemas pelo SENAC
 - 📫 Entre em contato: devgustavoluizlima@gmail.com 
@@ -8,6 +8,6 @@ Focado em me tornar um desenvolvedor back-end utilizando Java como minha linguag
 <p align="center"> Minhas Habilidades </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,js,python,html,css,postgres,git&theme=light" />
+    <img src="https://skillicons.dev/icons?i=java,spring,js,python,html,css,mysql,git&theme=light" />
   </a>
 </p>

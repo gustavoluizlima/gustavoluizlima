@@ -1,5 +1,5 @@
 ### Olá! Meu nome é Gustavo Luiz 👋
-Focado em me tornar um desenvolvedor back-end aprendendo PHP como linguagem e Laravel como framework. Gosto de criação de jogos, musica e artes e utilizo essa criatividade na hora de desenvolver. Faço alguns projetos pessoais para aprender mais no dia a dia.
+Focado em me tornar um desenvolvedor back-end aprendendo Java e utilizando Springboot como framework. Gosto de criação de jogos, musica e artes e utilizo essa criatividade na hora de desenvolver. Faço alguns projetos pessoais para aprender mais no dia a dia.
 
 - 🔭 Estudante de Análise e Desenvolvimento de Sistemas pelo SENAC
 - 📫 Entre em contato: devgustavoluizlima@gmail.com 
